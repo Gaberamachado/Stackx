@@ -3,3 +3,4 @@
 Teste 1
 Teste 2
 Esta linha foi adicionado diretamento pelo editor do site
+Teste **com** a linguagem *MD*
